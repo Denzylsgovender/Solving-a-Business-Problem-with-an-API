@@ -2,7 +2,11 @@
 
 ## Objective  
 You will explore free public APIs, understand their functionality, and integrate one into a C# ASP.NET Core MVC application to solve a real-world business problem.
-Visit the following link to access free API's: https://rapidapi.com/
+
+Visit the following links to access free API's: 
+https://rapidapi.com/
+https://www.freepublicapis.com/
+https://publicapis.dev/
 
 ## Instructions  
 
