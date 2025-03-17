@@ -32,4 +32,4 @@ Choose one of the following business problems (**or define your own**):
   - How it solves the business problem.  
   - Challenges faced during implementation.
  
-# Once completed, claim the following GitHub submission Link: https://classroom.github.com/a/qU3gJdGc and submit your completed project on ARC.
+### Once completed, claim the following GitHub submission Link: https://classroom.github.com/a/qU3gJdGc and submit your completed project on ARC.
