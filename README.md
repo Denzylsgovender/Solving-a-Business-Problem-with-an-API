@@ -27,7 +27,7 @@ Choose one of the following business problems (**or define your own**):
 
 ### 5. Test and Present  
 - Run the application and test API integration using Swagger.  
-- Prepare a short presentation explaining:  
+- Prepare a short presentation explaining ( **or document the following)**:  
   - Why the API was chosen.  
   - How it solves the business problem.  
   - Challenges faced during implementation.
